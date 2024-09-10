@@ -7,3 +7,8 @@ Diese App listet Cocktailrezepte
 - C#
 - MariaDB
 
+## Bechreibung der GUI
+
+Die GUI ist dehr einfaach gehalten.
+Mann kann Cocktails swipen oder suchen.
+
