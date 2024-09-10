@@ -7,6 +7,9 @@ Diese App listet Cocktailrezepte
 - C#
 - MariaDB
 
+## Datenbank
+DIe DB ist eine Maria DB mit 250 Cocktails und REzepten.
+
 ## Bechreibung der GUI
 
 Die GUI ist dehr einfaach gehalten.
