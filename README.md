@@ -4,4 +4,6 @@
 Diese App listet Cocktailrezepte
 
 ## Technologie
-C#/MariaDB
+- C#
+- MariaDB
+
