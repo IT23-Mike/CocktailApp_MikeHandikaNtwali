@@ -12,3 +12,4 @@ Diese App listet Cocktailrezepte
 Die GUI ist dehr einfaach gehalten.
 Mann kann Cocktails swipen oder suchen.
 
+Autor: D.Voß
