@@ -27,7 +27,7 @@ CREATE TABLE `tbgast` (
   `GEBDatum` date DEFAULT NULL,
   `IDSex` int(1) DEFAULT NULL,
   `AnzahlC` int(11) DEFAULT NULL,
-  `Guthaben` decimal(10,2) NOT NULL
+  `Guthaben` decimal(8,2) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_german2_ci;
 
 --
