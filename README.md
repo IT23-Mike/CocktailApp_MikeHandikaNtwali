@@ -9,6 +9,11 @@ Diese App listet Cocktailrezepte
 
 ## Datenbank
 DIe DB ist eine Maria DB mit 250 Cocktails und REzepten.
+DB liegt als MariaDB Dump vor.
+
+## Backend
+
+Backend ist Node.js.
 
 ## Bechreibung der GUI
 
