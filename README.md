@@ -1,5 +1,5 @@
 # CocktailApp
-
+- "Hier steht meine Änderungen"
 ## Beschreibung
 Diese App listet Cocktailrezepte
 Sie ist als MVC implementiert.
